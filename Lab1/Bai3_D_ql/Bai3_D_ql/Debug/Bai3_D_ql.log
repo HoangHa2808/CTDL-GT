@@ -1,0 +1,4 @@
+﻿  Bai3_D_ql.cpp
+D:\Cấu trúc dữ liệu\Lab1\Bai3_D_ql\Bai3_D_ql\menu.h(5,2): error C2065: 'cont': undeclared identifier
+D:\Cấu trúc dữ liệu\Lab1\Bai3_D_ql\Bai3_D_ql\menu.h(19,12): error C2660: 'XuatMenu': function does not take 0 arguments
+D:\Cấu trúc dữ liệu\Lab1\Bai3_D_ql\Bai3_D_ql\menu.h(2,5): message : see declaration of 'XuatMenu'
